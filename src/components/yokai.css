@@ -1,0 +1,90 @@
+:root {
+    --black: 
+  rgba(0, 0, 0, 1);
+    --suva-gray: 
+  rgba(134, 132, 132, 1);
+    --white: 
+  rgba(255, 255, 255, 1);
+  
+    --font-size-s: 14px;
+    --font-size-m: 18px;
+    --font-size-l: 20px;
+    --font-size-xl: 24px;
+    --font-size-xxl: 28px;
+    --font-size-xxxl: 42px;
+  
+    --font-family-futura-bold: "Futura-Bold";
+    --font-family-futura-medium: "Futura-Medium";
+    --font-family-roboto: "Roboto";
+  }
+  
+  
+  
+  .roboto-normal-black-24px {
+    color: var(--black);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-xl);
+    font-weight: 400;
+    font-style: normal;
+  }
+  .futura-medium-black-14px {
+    color: var(--black);
+    font-family: var(--font-family-futura-medium);
+    font-size: var(--font-size-s);
+    font-weight: 500;
+    font-style: normal;
+  }
+  .roboto-medium-black-28px {
+    color: var(--black);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-xxl);
+    font-weight: 500;
+    font-style: normal;
+  }
+  .roboto-medium-black-20px {
+    color: var(--black);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-l);
+    font-weight: 500;
+    font-style: normal;
+  }
+  .futura-bold-black-42px {
+    color: var(--black);
+    font-family: var(--font-family-futura-bold);
+    font-size: var(--font-size-xxxl);
+    font-weight: 700;
+    font-style: normal;
+  }
+  .border-3px-black {
+    border-width: 3px;
+    border-style: solid;
+    border-color: var(--black);
+  }
+  .roboto-normal-suva-gray-18px {
+    color: var(--suva-gray);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    font-style: normal;
+  }
+  .futura-bold-black-20px {
+    color: var(--black);
+    font-family: var(--font-family-futura-bold);
+    font-size: var(--font-size-l);
+    font-weight: 700;
+    font-style: normal;
+  }
+  .futura-bold-black-18px {
+    color: var(--black);
+    font-family: var(--font-family-futura-bold);
+    font-size: var(--font-size-m);
+    font-weight: 700;
+    font-style: normal;
+  }
+  .futura-medium-black-18px {
+    color: var(--black);
+    font-family: var(--font-family-futura-medium);
+    font-size: var(--font-size-m);
+    font-weight: 500;
+    font-style: normal;
+  }
