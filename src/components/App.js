@@ -81,8 +81,7 @@ function Yokai() {
       <div className="artist-intro">
       <div className="wrap">
       <h3>Artist</h3>
-      <p>Our artist, Hideyuki Katsumata: 
-      Hideyuki Katsumata, born in Tokyo, is considered as a traditional Japanese style artist. He creates the peculiar Ukiyoe/Manga world, vibrant and brave. He had installations in Argentina, Brazil, China, France, Hong-Kong, Japan, Scotland, Taiwan, Thailand, U.S., etc., therefore his character and friend “Hanautah” is painted on the walls, of these countries. He also has enthusiastic collectors for his “Shunga” art. He is funny and relaxed.
+      <p>Our artist, Hideyuki Katsumata, born in Tokyo, is considered as a traditional Japanese style artist. He creates the peculiar Ukiyoe/Manga world, vibrant and brave. He had installations in Argentina, Brazil, China, France, Hong-Kong, Japan, Scotland, Taiwan, Thailand, U.S., etc., therefore his character and friend “Hanautah” is painted on the walls, of these countries. He also has enthusiastic collectors for his “Shunga” art. He is funny and relaxed.
 </p>
       <div><img className="artist" src={artist} alt="Hideyuki Katsumata" /></div>
       <div className="artistinstagram">
@@ -129,8 +128,8 @@ function Yokai() {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-          Presale: Minting will start on April 21th, 2022. Only for our early supporters. Join now!
-Public sale: To be announced.
+          Community Presale: Minting will start on late April. Only for our early supporters. Join our Discord to see more information now!<br />
+Public sale: TBA
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -144,7 +143,8 @@ Public sale: To be announced.
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-          Yokai Land is the first NFT project using for UnUniFi Protocol and you will get the fully access and privilieges by holding a Yokai NFT. Yokai Land DAO will be contributing to UnUniFi Protocol in early stage and rewarding our holders with equivilent benefits.
+          Yokai Land is the first NFT project using for UnUniFi Protocol and you will get the fully access and privilieges by holding a Yokai NFT.<br />
+          Yokai Land DAO will be contributing to UnUniFi Protocol and rewarding our holders with equivilent benefits.
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -172,8 +172,9 @@ Public sale: To be announced.
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-          The price of mint for the Presale will be set at 0.1Ξ
-Why we didn’t set free mint or low price on presale is because the foundation of our DAO is going to be contributing UnUniFi Protocol in the early-stage and hosting UnUniFi's validator node which will give our ecosystem stable rewards in the long run.
+          Community Presale: 0.08Ξ<br />
+Public sale price: TBA<br />
+Why we didn’t set free mint or low price on presale is because the foundation of our DAO is going to be contributing UnUniFi Protocol in the early stage and hosting UnUniFi's validator node which will give our ecosystem stable rewards in the long run.
           </Typography>
         </AccordionDetails>
       </Accordion>
