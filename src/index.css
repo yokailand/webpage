@@ -1,0 +1,189 @@
+
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+html, body {
+  height: 100%;
+  position: relative;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.cnt{
+  margin: 0 auto;
+}
+.wrap {
+  width: 390px;
+  margin: 0 auto;
+  overflow: hidden;
+  text-align: center;
+  padding: 30px 0;
+  border-bottom: 3px solid #000000;
+}
+.final-message .wrap{
+  border-bottom: none;
+}
+h2, h3 {
+  font-size: 1.9em;
+  font-weight: 800;
+
+}
+h3 {
+  text-align: center;
+}
+p {
+  text-align: justify;
+  font-size: 1em;
+}
+.yokailand-intro p,
+.yokai-intro p,
+.artist-intro p,
+.ununifi-intro p,
+.total-distribution p{
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 20px;
+}
+
+.hero{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  background-image: url("./assets/NFT_LANDSCAPE1.jpg");
+  background-position: 50% 50%;
+  background-size: cover;
+
+  min-height: 845px;
+  padding-top: 69px;
+  width: 100%;
+}
+.landscape{
+  width: 100%;
+  height: 450px;
+
+
+  background-image: url("./assets/NFT_LANDSCAPE3.jpg");
+  background-position: 50% 50%;
+  background-size: cover;
+}
+.yokaiIntro{
+
+}
+.yokais{
+}
+.yokai{
+  display: block;
+  margin: 10px auto;
+}
+
+.mainLogo {
+  margin-top: 180px;
+}
+.titleLogo{
+  width:448px;
+  height:86 px;
+}
+.joinWht{
+  width:343px;
+  height:65px;
+}
+.artist-intro{
+  display: flex;
+  justify-content: center
+}
+.artist{
+  width:321px;
+  height:40px;
+}
+.artistinstagram{
+  margin-top: 20px;
+
+}
+.ununifi-intro{}
+.ununifiLogoMark{
+  padding-top:30px;
+  padding-bottom:30px;
+}
+.learnMore, .joinDiscord{
+  padding-top: 10px;
+  padding-bottom:30px;
+}
+.joinDiscord{
+  padding-bottom:60px;
+}
+.total-distribution{}
+.faq{}
+
+
+.introduction{
+}
+.haanutah-prof{
+}
+.haanutah-prof img {
+  width: 346px;
+}
+.titleLogo {
+  width: 293px;
+}
+.primaryBtn {
+  margin-top: 67px;
+}
+.distributiondetail{
+  padding-top: 30px;
+}
+.distributiondetail div{
+  padding-bottom: 30px;
+}
+.joinDiscord{
+  width: 300px;
+  height: 61px;
+  margin: 0 auto;
+}
+.sns {
+  display: flex;
+  justify-content: space-around;
+  width: 194px;
+  margin: 0 auto;
+}
+.sns a {
+  display: block;
+}
+footer {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+footer p{
+  text-align: center;
+}
+footer .sns {
+  padding-bottom:30px; 
+}
+
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root {
+  box-shadow: none !important;
+}
+.MuiButtonBase-root p {
+  font-weight: 700 !important;
+  font-size:1.2em;
+}
+.MuiCollapse-root p{
+  font-weight: 400 !important; 
+  color: #444;
+  font-size:0.9em;
+}
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root:before {
+  background-color: transparent !important;
+}
+
+@media only screen and (min-width: 43rem) {}
+@media only screen and (min-width: 62rem) {}
