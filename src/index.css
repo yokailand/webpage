@@ -59,7 +59,7 @@ p {
   flex-direction: column;
   align-items: center;
 
-  background-image: url("./assets/NFT_LANDSCAPE1.jpg");
+  background-image: url("./assets/NFT_LANDSCAPE_lite_1.jpg");
   background-position: 50% 50%;
   background-size: cover;
 
@@ -72,7 +72,7 @@ p {
   height: 450px;
 
 
-  background-image: url("./assets/NFT_LANDSCAPE3.jpg");
+  background-image: url("./assets/NFT_LANDSCAPE_lite_3.jpg");
   background-position: 50% 50%;
   background-size: cover;
 }
