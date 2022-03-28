@@ -16,9 +16,9 @@ import twitter from '../assets/IconTwitter.svg';
 import discord from '../assets/IconDiscord.svg';
 import instagram from '../assets/IconInstagram.svg';
 import distribution from '../assets/Dis00.svg';
-import distribution01 from '../assets/Dis01.svg';
-import distribution02 from '../assets/Dis02.svg';
-import distribution03 from '../assets/Dis03.svg';
+import distribution01 from '../assets/Dis_01.svg';
+import distribution02 from '../assets/Dis_02.svg';
+import distribution03 from '../assets/Dis_03.svg';
 import joinWhitelist from '../assets/BtnJoinWht.svg';
 import joinDiscord from '../assets/BtnJoinDiscord.svg';
 
