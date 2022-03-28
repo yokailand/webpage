@@ -6,8 +6,9 @@ import titleLogo from '../assets/TitleLogo.png';
 import hanautah from '../assets/Hanautah.png';
 import yokai01 from '../assets/YokaiHana01.svg';
 import yokai02 from '../assets/YokaiGod01.svg';
-import yokai03 from '../assets/Cat03.svg';
+import yokai03 from '../assets/Tengu_.svg';
 import yokai04 from '../assets/Cat04.svg';
+import yokai05 from '../assets/Kikurihime_.svg';
 import artist from '../assets/Artist.png';
 import unUniFi from '../assets/LogoUnUniFi.svg';
 import learnMore from '../assets/BtnLearnMore.svg';
@@ -68,12 +69,13 @@ function Yokai() {
       <div className="yokai-intro">
       <div className="wrap">
       <h3>Yokais</h3>
-      <p>Yokais will guild you to the NFT x DeFi world</p>
+      <p>Yokais DAO will guide you to the NFT x DeFi world</p>
       <div class="yokais">
       <img className="yokai" src={yokai01} />
       <img className="yokai" src={yokai02} />
       <img className="yokai" src={yokai03} />
       <img className="yokai" src={yokai04} />
+      <img className="yokai" src={yokai05} />
       </div>
       </div>
       </div>
@@ -225,6 +227,7 @@ const yokaiData = {
   yokai02: yokai02,
   yokai03: yokai03,
   yokai04: yokai04,
+  yokai05: yokai05,
   artist: artist,
   unUniFi: unUniFi,
   learnMore: learnMore,
