@@ -68,7 +68,7 @@ function Yokai() {
       <div className="yokai-intro">
       <div className="wrap">
       <h3>Yokais</h3>
-      <p>Yokais are your new identity in the metaverse world</p>
+      <p>Yokais will guild you to the NFT x DeFi world</p>
       <div class="yokais">
       <img className="yokai" src={yokai01} />
       <img className="yokai" src={yokai02} />
